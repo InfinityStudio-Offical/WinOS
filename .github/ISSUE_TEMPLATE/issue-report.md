@@ -2,7 +2,7 @@
 name: Issue Report
 about: Experincing Issue / Error
 title: ''
-labels: Bug / Error, Duplicate, Invalid, Resloved
+labels: Bug / Error, Duplicate, Fatal Error, Invalid, Resloved
 assignees: InfinityStudio-Offical
 
 ---
