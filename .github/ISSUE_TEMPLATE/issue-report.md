@@ -1,0 +1,30 @@
+---
+name: Issue Report
+about: Experincing Issue / Error
+title: ''
+labels: Bug / Error, Duplicate, Invalid, Resloved
+assignees: InfinityStudio-Offical
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**System type**
+- WinOS Version (Include V.{1}.{2}-{3} and Free / Premium / Exclusive)
+
+**Additional context**
+Add any other context about the problem here.

@@ -2,7 +2,7 @@
 name: Feature Request
 about: Request an Feature to WinOS
 title: ''
-labels: Accepted, Bug / Error, Duplicate, Rejected
+labels: Accepted, Bug / Error, Duplicate, Rejected, Resloved
 assignees: InfinityStudio-Offical
 
 ---
